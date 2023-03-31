@@ -1,4 +1,4 @@
-# takeawaycms
+# studentMS
 
 ## Project setup
 ```
