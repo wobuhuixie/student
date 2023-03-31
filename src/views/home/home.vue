@@ -1,6 +1,6 @@
 <template>
-  <div class="body">
-      <router-view></router-view>
+  <div>
+    
   </div>
 </template>
 
@@ -10,6 +10,6 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 
 </style>
